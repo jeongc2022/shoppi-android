@@ -2460,6 +2460,7 @@ int drawable ic_mtrl_checked_circle 0x7f07006c
 int drawable ic_mtrl_chip_checked_black 0x7f07006d
 int drawable ic_mtrl_chip_checked_circle 0x7f07006e
 int drawable ic_mtrl_chip_close_circle 0x7f07006f
+int drawable img_pdp_top_01 0x7f07009d
 int drawable m3_appbar_background 0x7f070070
 int drawable m3_popupmenu_background_overlay 0x7f070071
 int drawable m3_radiobutton_ripple 0x7f070072
@@ -2730,6 +2731,8 @@ int id item2 0x7f0800dd
 int id item3 0x7f0800de
 int id item4 0x7f0800df
 int id item_touch_helper_previous_elevation 0x7f0800e0
+int id iv_product_detail_image 0x7f0801dc
+int id iv_product_thumbnail 0x7f0801dd
 int id jumpToEnd 0x7f0800e1
 int id jumpToStart 0x7f0800e2
 int id labeled 0x7f0800e3
@@ -2948,6 +2951,7 @@ int id title 0x7f0801b7
 int id titleDividerNoCustom 0x7f0801b8
 int id title_template 0x7f0801b9
 int id toggle 0x7f0801ba
+int id toolbar_product_detail 0x7f0801de
 int id top 0x7f0801bb
 int id topPanel 0x7f0801bc
 int id touch_outside 0x7f0801bd
@@ -2959,12 +2963,19 @@ int id transition_position 0x7f0801c2
 int id transition_scene_layoutid_cache 0x7f0801c3
 int id transition_transform 0x7f0801c4
 int id triangle 0x7f0801c5
+int id tv_product_brand_name 0x7f0801df
+int id tv_product_detail_image_title 0x7f0801e0
+int id tv_product_discount_price 0x7f0801e1
+int id tv_product_discount_rate 0x7f0801e2
+int id tv_product_lable 0x7f0801e3
+int id tv_product_price 0x7f0801e4
 int id unchecked 0x7f0801c6
 int id uniform 0x7f0801c7
 int id unlabeled 0x7f0801c8
 int id up 0x7f0801c9
 int id useLogo 0x7f0801ca
 int id vertical_only 0x7f0801cb
+int id view_divider_product 0x7f0801e5
 int id view_offset_helper 0x7f0801cc
 int id view_transition 0x7f0801cd
 int id view_tree_lifecycle_owner 0x7f0801ce
@@ -3067,6 +3078,7 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_main 0x7f0b001c
+int layout activity_product_detail 0x7f0b0074
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
 int layout design_bottom_sheet_dialog 0x7f0b001f
@@ -3196,6 +3208,8 @@ int string character_counter_overflowed_content_description 0x7f0f0021
 int string character_counter_pattern 0x7f0f0022
 int string chip_text 0x7f0f0023
 int string clear_text_end_icon_content_description 0x7f0f0024
+int string description_product_detail_image 0x7f0f0084
+int string description_product_thumbnail 0x7f0f0085
 int string error_icon_content_description 0x7f0f0025
 int string exposed_dropdown_menu_content_description 0x7f0f0026
 int string fab_transformation_scrim_behavior 0x7f0f0027
@@ -3291,6 +3305,7 @@ int string path_password_eye_mask_visible 0x7f0f0080
 int string path_password_strike_through 0x7f0f0081
 int string search_menu_title 0x7f0f0082
 int string status_bar_notification_info_overflow 0x7f0f0083
+int string title_product_detail_image 0x7f0f0086
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001
 int style AndroidThemeColorAccentYellow 0x7f100002

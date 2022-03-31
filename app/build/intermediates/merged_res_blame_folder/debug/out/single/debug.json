@@ -16,16 +16,20 @@
         "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_product_detail.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\layout\\activity_product_detail.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -34,6 +38,18 @@
     {
         "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_img_pdp_top_01.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\drawable-xhdpi\\img_pdp_top_01.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_img_pdp_top_01.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\drawable-xxxhdpi\\img_pdp_top_01.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_img_pdp_top_01.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\drawable-hdpi\\img_pdp_top_01.webp"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -48,8 +64,16 @@
         "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_img_pdp_top_01.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\drawable-xxhdpi\\img_pdp_top_01.webp"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_img_pdp_top_01.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\shoppi-android\\app\\src\\main\\res\\drawable-mdpi\\img_pdp_top_01.webp"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\shoppi-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
