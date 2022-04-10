@@ -19,8 +19,11 @@ color shoppi_pink_01
 color shoppi_pink_02
 color shoppi_purple
 color shoppi_white
+drawable background_splash_screen
+drawable ic_gnb_back
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable img_logo
 drawable img_pdp_top_01
 id iv_product_detail_image
 id iv_product_thumbnail
@@ -54,3 +57,4 @@ style TextSubtitle2.Gray05
 style TextSubtitle3
 style TextSubtitle3.Gray03
 style Theme.Shoppiandroid
+style Theme.Shoppiandroid.Splash

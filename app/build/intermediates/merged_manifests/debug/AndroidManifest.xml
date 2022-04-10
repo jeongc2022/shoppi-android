@@ -9,7 +9,7 @@
         android:targetSdkVersion="31" />
 
     <application
-        android:allowBackup="true"
+        android:allowBackup="false"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
@@ -19,15 +19,20 @@
         android:testOnly="true"
         android:theme="@style/Theme.Shoppiandroid" >
         <activity
-            android:name="com.shoppi.app.MainActivity"
-            android:exported="true" >
+            android:name="com.shoppi.app.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Shoppiandroid.Splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+        <activity
+            android:name="com.shoppi.app.MainActivity"
+            android:exported="false" />
+        <!-- 1. 부에서 앱을 실행 할 때 SplashActivity로 실행을 시킬려면 exported 속성을 ture로 변경 -->
+        <!-- 2. MainActivity의 exported 속성은 false로 해둠 -->
         <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.shoppi.app.androidx-startup"
